@@ -27,5 +27,3 @@ def nyc_pigeon_organizer(data)
 end
 
 
-pp nyc_pigeon_organizer(pigeon_data)
-end
